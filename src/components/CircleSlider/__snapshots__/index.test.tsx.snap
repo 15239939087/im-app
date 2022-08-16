@@ -1,0 +1,530 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CircleSlider /> render CircleSlider 1`] = `
+<View
+  onLayout={[Function]}
+  onMoveShouldSetResponder={[Function]}
+  onMoveShouldSetResponderCapture={[Function]}
+  onResponderEnd={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderReject={[Function]}
+  onResponderRelease={[Function]}
+  onResponderStart={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  onStartShouldSetResponderCapture={[Function]}
+  pointerEvents="box-only"
+  style={
+    Object {
+      "alignItems": "center",
+      "height": 290,
+      "justifyContent": "center",
+      "width": 290,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#23242e",
+        "borderRadius": 290,
+        "height": 290,
+        "position": "absolute",
+        "width": 290,
+      }
+    }
+  />
+  <Svg
+    height={290}
+    preserveAspectRatio="xMidYMid meet"
+    width={290}
+  >
+    <Defs>
+      <LinearGradient
+        id="grad_2"
+        x1="0"
+        x2="1"
+        y1="0"
+        y2="1"
+      >
+        <Stop
+          offset="0"
+          stopColor="#2D3749"
+          stopOpacity="1"
+        />
+        <Stop
+          offset="1"
+          stopColor="#2D3749"
+          stopOpacity="1"
+        />
+      </LinearGradient>
+    </Defs>
+    <Path
+      d="M145 30 A 115 115, 0, 0, 1, 260 145 A 115 115, 0, 1, 1, 125.0304595683029 31.747108403596087"
+      fill="transparent"
+      stroke="url(#grad_2)"
+      strokeWidth={5}
+    />
+    <Path
+      d="M145 30 A 115 115, 0, 0, 1, 145 30"
+      fill="none"
+      stroke="#FF4545"
+      strokeWidth={15}
+      style={
+        Object {
+          "zIndex": 999,
+        }
+      }
+    />
+    <Path
+      d="M145 20 L145 10"
+      fill="transparent"
+      key="0"
+      stroke="#FF4545"
+      strokeWidth={2}
+    />
+    <Path
+      d="M160.23366792564343 20.93173104483475 L161.45236135969492 11.00626952842154"
+      fill="transparent"
+      key="1"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M175.24023694995847 23.713034215500443 L177.65945590595516 14.010076952740462"
+      fill="transparent"
+      key="2"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M189.79599369316253 28.30244668784978 L193.37967318861553 18.96664242287777"
+      fill="transparent"
+      key="3"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M203.68394534823636 34.631550892634124 L208.37866097609526 25.802074964044863"
+      fill="transparent"
+      key="4"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M216.69705454388077 42.60599446387603 L222.4328189073912 34.414474020986106"
+      fill="transparent"
+      key="5"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M228.64132579485727 52.106896815325726 L235.33263185844586 44.67544856055177"
+      fill="transparent"
+      key="6"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M239.3386975278465 62.99262137618659 L246.88579333007422 56.43203108628151"
+      fill="transparent"
+      key="7"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M248.6296965693802 75.10088706615664 L256.9200722949306 69.50895803144918"
+      fill="transparent"
+      key="8"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M256.37581552354595 88.25118753255664 L265.2858807654296 83.71128253516117"
+      fill="transparent"
+      key="9"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M262.46157759823853 102.24748208429139 L271.8585038060976 98.8272806510347"
+      fill="transparent"
+      key="10"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M266.7962580981544 116.88111820701688 L276.53995874600673 114.63160766357824"
+      fill="transparent"
+      key="11"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M269.31523692103417 131.93394209154332 L279.26045587471685 130.8886574588668"
+      fill="transparent"
+      key="12"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M269.9809618945489 147.18155080466045 L279.9794388461128 147.35607486903328"
+      fill="transparent"
+      key="13"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M268.7835085926963 162.39663762000816 L278.686189280112 163.7883686296088"
+      fill="transparent"
+      key="14"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M265.74072828613356 177.35238063781512 L275.3999865490242 179.94057108884033"
+      fill="transparent"
+      key="15"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M260.89798182084843 191.82582417698902 L270.1698203665163 195.57189011114812"
+      fill="transparent"
+      key="16"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M254.32746339242448 205.60120253079214 L263.07366046381844 210.4492987332555"
+      fill="transparent"
+      key="17"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M246.12712429686843 218.47315653655915 L254.2172942406179 224.35100905948386"
+      fill="transparent"
+      key="18"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M236.41921270239632 230.24979500781228 L243.73274971858802 237.06977860843728"
+      fill="transparent"
+      key="19"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M225.34845121081742 240.75555538987226 L231.77632730768283 248.41599982106203"
+      fill="transparent"
+      key="20"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M213.07987937687835 249.83382099317802 L218.52626972702862 258.2205266726323"
+      fill="transparent"
+      key="21"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M199.79639334863467 257.34925578739586 L204.18010481652544 266.33719625038754"
+      fill="transparent"
+      key="22"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M185.69601930714464 263.1898219499146 L188.9517008517162 272.64500770590774"
+      fill="transparent"
+      key="23"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M170.98896135221992 267.2684500917257 L173.0680782603975 277.0499260990638"
+      fill="transparent"
+      key="24"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M155.89446784345733 269.5243372614682 L156.7660252709339 279.48628424238564"
+      fill="transparent"
+      key="25"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M140.63756291218738 269.923853377387 L140.28856794516238 279.9177616475779"
+      fill="transparent"
+      key="26"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M125.44569186997116 268.4610425743922 L123.88134721956885 278.3379259803436"
+      fill="transparent"
+      key="27"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M110.54533052287513 265.1577119922899 L107.78895696470514 274.77032895167304"
+      fill="transparent"
+      key="28"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M96.15860893884081 260.06310668155504 L92.25129765394807 269.26815521607944"
+      fill="transparent"
+      key="29"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M82.49999999999999 253.25317547305482 L77.49999999999999 261.9134295108992"
+      fill="transparent"
+      key="30"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M69.77312210599399 244.8294387559116 L63.75497187447351 252.81579385638457"
+      fill="transparent"
+      key="31"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M58.167703692625324 234.91747504233138 L51.221119988035355 242.11087304571788"
+      fill="transparent"
+      key="32"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M47.85675481787861 223.66504888122964 L40.0852952033089 229.958252791728"
+      fill="transparent"
+      key="33"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M38.99398798044676 211.23990802915063 L30.513507018882493 216.5391006714827"
+      fill="transparent"
+      key="34"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M31.71152662041878 197.82728271758748 L22.64844875005228 202.05346533499448"
+      fill="transparent"
+      key="35"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M26.11793546310581 183.62712429686843 L16.607370300154287 186.71729424061792"
+      fill="transparent"
+      key="36"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M22.296602069042024 168.85112442206818 L12.480330234565372 170.75921437583364"
+      fill="transparent"
+      key="37"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M20.30449371752198 153.7195592180157 L10.328853214923726 154.41712395545696"
+      fill="transparent"
+      key="38"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M20.171308155678275 138.458005469632 L10.18501280813254 137.93464590720257"
+      fill="transparent"
+      key="39"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M21.89903087347399 123.29397779163375 L12.050953343351892 121.55749601496446"
+      fill="transparent"
+      key="40"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M25.461905504620574 108.45353690965791 L15.898857944990226 105.52981986243054"
+      fill="transparent"
+      key="41"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M30.8068177946749 94.15791961552493 L21.6713632182489 90.09055318476692"
+      fill="transparent"
+      key="42"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M37.854087412235955 80.62024063624322 L29.282414405214837 75.46985988714269"
+      fill="transparent"
+      key="43"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M46.49865579915978 68.04231558429268 L38.61854826309256 61.885700831036104"
+      fill="transparent"
+      key="44"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M56.61165235168154 56.611652351681585 L49.54058453981607 49.54058453981611"
+      fill="transparent"
+      key="45"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M68.04231558429264 46.498655799159806 L61.88570083103606 38.61854826309259"
+      fill="transparent"
+      key="46"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M80.6202406362432 37.854087412235984 L75.46985988714265 29.282414405214865"
+      fill="transparent"
+      key="47"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M94.15791961552497 30.806817794674885 L90.09055318476697 21.67136321824887"
+      fill="transparent"
+      key="48"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M108.45353690965797 25.461905504620546 L105.5298198624306 15.898857944990198"
+      fill="transparent"
+      key="49"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+    <Path
+      d="M123.2939777916336 21.899030873474018 L121.55749601496427 12.050953343351921"
+      fill="transparent"
+      key="50"
+      stroke="#2D3749"
+      strokeWidth={2}
+    />
+  </Svg>
+  <View
+    pointerEvents="none"
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#2D3749",
+          "flex": 1,
+          "justifyContent": "center",
+          "left": 0,
+          "position": "absolute",
+          "top": 0,
+          "zIndex": 2,
+        },
+        Object {
+          "borderRadius": 215,
+          "height": 215,
+          "left": 37.5,
+          "top": 37.5,
+          "width": 215,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+          },
+          Object {
+            "opacity": 1,
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "fontFamily": "Helvetica",
+              "fontWeight": "600",
+            },
+            Object {
+              "color": "white",
+              "fontSize": 108,
+            },
+          ]
+        }
+      >
+        0
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "white",
+            "fontFamily": "Helvetica",
+            "fontSize": 24,
+            "fontWeight": "400",
+            "marginTop": -16,
+          }
+        }
+      >
+        current 18℃
+      </Text>
+    </View>
+  </View>
+  <Image
+    source={1}
+    style={
+      Array [
+        Object {
+          "height": 12,
+          "position": "absolute",
+          "width": 13,
+        },
+        Object {
+          "left": 0,
+          "top": 0,
+          "transform": Array [
+            Object {
+              "rotate": "0deg",
+            },
+          ],
+          "zIndex": 3,
+        },
+      ]
+    }
+  />
+</View>
+`;
